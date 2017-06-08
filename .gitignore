@@ -1,0 +1,10 @@
+.DS_Store
+build
+gradle
+rules.ninja
+CMakeFiles
+app/.externalNativeBuild/cmake/release/x86
+x86_64
+armeabi
+armeabi-v7a
+mips
